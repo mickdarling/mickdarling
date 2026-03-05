@@ -1,22 +1,28 @@
 # Hey, I'm Mick Darling
 
-**Builder. Product-focused. Full-stack operator.**
+**Builder. Product person. Full stack operator.**
 
-I build AI infrastructure, autonomous systems, and tools that make AI platforms more useful. My background spans product, engineering, design, marketing, sales, and operations — I build whatever needs building.
+I've been working with AI platforms for a while now... ChatGPT, Claude, Claude Code, Gemini, Groq, half a dozen others, doing different pieces and parts of things. And, that's how I ended up building my own infrastructure.
+
+My background spans product, engineering, design, marketing, sales, and operations. I build whatever needs building.
 
 ---
 
 ## What I'm Working On
 
-I'm the founder of [DollhouseMCP](https://github.com/DollhouseMCP), where I'm building the next generation of AI customization tools:
+So I started with the idea of building a simple catalog system for AI prompts. Finding them scattered throughout the internet on Reddit, Discord, LinkedIn, amongst others, it just became messy. But, I had an incredibly bad system for organizing them.
 
-- **[DollhouseMCP MCP Server](https://github.com/DollhouseMCP/mcp-server)** — An open-source Model Context Protocol server for dynamic AI customization through modular elements (personas, skills, templates, agents, and more). Published on npm as `@dollhousemcp/mcp-server`.
+That simple catalog turned into [DollhouseMCP](https://github.com/DollhouseMCP)... and it works quite well.
 
-- **V2 Architecture (Active Development)** — A major refactor of the MCP server introducing a new tool for managing MCP tools and other APIs through AI platforms. Averaging dozens of commits per week across multiple private repositories.
+Here's what I'm building there:
 
-- **Autonomous Bridge Systems** — Building infrastructure that lets AI agents operate continuously on chat platforms, with permission models, health monitoring, and execution lifecycle management.
+- **[DollhouseMCP MCP Server](https://github.com/DollhouseMCP/mcp-server)** is an open source Model Context Protocol server. It lets you create personas, skills, templates, agents, and memory elements using natural language. Published on npm as `@dollhousemcp/mcp-server`.
 
-- **AI Element Ecosystem** — Designing a three-tier architecture for AI customization: local portfolios, GitHub-synced backups, and a community collection of shared elements.
+- **V2 Architecture** is in active development. A major refactor introducing a unified tool for managing MCP tools and other APIs through AI platforms. Dozens of commits per week across multiple repositories.
+
+- **Autonomous Bridge Systems** let AI agents operate continuously on chat platforms with real permission models, health monitoring, and execution lifecycle management. You're probably reading output from one of these right now.
+
+- **AI Element Ecosystem** is a three tier architecture: local portfolios, GitHub synced backups, and a community collection for everyone to use and they can share.
 
 ## What I Build With
 
@@ -24,23 +30,23 @@ I'm the founder of [DollhouseMCP](https://github.com/DollhouseMCP), where I'm bu
 
 ## How I Think About Product
 
-I don't just spec features — I prototype, evaluate, and ship them. My approach:
+I don't just spec features. I prototype, evaluate, and ship them. Every project I touch goes through this cycle:
 
 **Problem → Architecture → Tradeoffs → Build → Iterate**
 
-Every project I touch goes through this cycle. I care about production tradeoffs, not just demos. I care about what scales, what's maintainable, and what actually solves the problem.
+I care about production tradeoffs, not just demos. I care about what scales, what's maintainable, and what actually solves the problem.
 
 ## What I Bring to the Table
 
-- **Product Strategy & Execution** — From zero-to-one ideation through launch and growth
-- **AI Systems Architecture** — MCP servers, agent orchestration, LLM ensemble design
-- **Full-Stack Development** — Frontend, backend, infrastructure, CI/CD
-- **Team & Operations** — Management, marketing, sales, design — I've done it all and can speak every team's language
-- **Open Source Leadership** — Building in public, community-driven development, contributor ecosystems
+- **Product Strategy and Execution** from zero to one ideation through launch and growth
+- **AI Systems Architecture** including MCP servers, agent orchestration, LLM ensemble design
+- **Full Stack Development** across frontend, backend, infrastructure, CI/CD
+- **Team and Operations** covering management, marketing, sales, design... I've done it all and can speak every team's language
+- **Open Source Leadership** with community driven development and contributor ecosystems
 
 ## Current Activity
 
-Most of my daily work happens across multiple private repositories in the DollhouseMCP organization — building server infrastructure, autonomous systems, and AI tooling. The contribution chart reflects real, consistent building.
+Most of my daily work happens across multiple private repositories in the DollhouseMCP organization. Building server infrastructure, autonomous systems, and AI tooling. The contribution chart reflects real, consistent building.
 
 **DollhouseMCP by the numbers:**
 - 6 public repositories, 7+ private repositories in active development
@@ -48,24 +54,31 @@ Most of my daily work happens across multiple private repositories in the Dollho
 - V2 refactor: hundreds of commits, major architectural evolution
 - Supporting tools: developer kits, community collections, internal utilities
 
-![Mick's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mickdarling&theme=github-compact&area=true&hide_border=true)
+![Mick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mickdarling&theme=github-compact&area=true&hide_border=true)
 
 ## Featured Projects
 
-[![DollhouseMCP MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=DollhouseMCP&repo=mcp-server&theme=default)](https://github.com/DollhouseMCP/mcp-server)
-[![Merview](https://github-readme-stats.vercel.app/api/pin/?username=mickdarling&repo=merview&theme=default)](https://github.com/mickdarling/merview)
+<a href="https://github.com/DollhouseMCP/mcp-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DollhouseMCP&repo=mcp-server&theme=default&cache_seconds=86400" />
+</a>
+<a href="https://github.com/mickdarling/merview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mickdarling&repo=merview&theme=default&cache_seconds=86400" />
+</a>
 
-*More projects coming soon — several private repositories moving toward public release.*
+*Several more private projects coming soon.*
 
 ## GitHub Stats
 
-![Mick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickdarling&show_icons=true&count_private=true&include_all_commits=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mickdarling&theme=default)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mickdarling&show_icons=true&count_private=true&include_all_commits=true&theme=default&cache_seconds=86400" alt="Mick's GitHub Stats" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=mickdarling&theme=default" alt="GitHub Streak" />
+</p>
 
 ## Let's Connect
 
-I'm always interested in talking with people building in the AI infrastructure space, especially around MCP, agent orchestration, and AI-assisted development workflows.
+I'm always interested in talking with people building in the AI infrastructure space... especially around MCP, agent orchestration, and AI assisted development workflows.
 
 - **GitHub:** [mickdarling](https://github.com/mickdarling)
 - **Organization:** [DollhouseMCP](https://github.com/DollhouseMCP)
