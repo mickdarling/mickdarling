@@ -48,6 +48,8 @@ Most of my daily work happens across multiple private repositories in the Dollho
 - V2 refactor: hundreds of commits, major architectural evolution
 - Supporting tools: developer kits, community collections, internal utilities
 
+![Mick's GitHub Activity Graph](https://ghchart.rshah.org/mickdarling)
+
 ## Featured Projects
 
 [![DollhouseMCP MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=DollhouseMCP&repo=mcp-server&theme=default)](https://github.com/DollhouseMCP/mcp-server)
@@ -57,7 +59,7 @@ Most of my daily work happens across multiple private repositories in the Dollho
 
 ![Mick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mickdarling&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mickdarling&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mickdarling&theme=default)
 
 ## Let's Connect
 
