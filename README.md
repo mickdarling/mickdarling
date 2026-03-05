@@ -54,27 +54,21 @@ Most of my daily work happens across multiple private repositories in the Dollho
 - V2 refactor: hundreds of commits, major architectural evolution
 - Supporting tools: developer kits, community collections, internal utilities
 
-![Mick's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mickdarling&theme=github-compact&area=true&hide_border=true)
-
 ## Featured Projects
 
-<a href="https://github.com/DollhouseMCP/mcp-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DollhouseMCP&repo=mcp-server&theme=default&cache_seconds=86400" />
-</a>
-<a href="https://github.com/mickdarling/merview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mickdarling&repo=merview&theme=default&cache_seconds=86400" />
-</a>
+### [DollhouseMCP MCP Server](https://github.com/DollhouseMCP/mcp-server)
+Open source Model Context Protocol server for dynamic AI customization. Create personas, skills, templates, agents, and memory elements using natural language. Build once, use everywhere.
+
+### [Merview](https://github.com/mickdarling/merview)
+A client side markdown editor with live Mermaid diagram rendering and syntax highlighting. Simple, fast, and useful.
 
 *Several more private projects coming soon.*
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mickdarling&show_icons=true&count_private=true&include_all_commits=true&theme=default&cache_seconds=86400" alt="Mick's GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=mickdarling&theme=default" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=mickdarling&theme=default)
+
+![Mick's GitHub Activity](https://ghchart.rshah.org/mickdarling)
 
 ## Let's Connect
 
