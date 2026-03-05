@@ -48,12 +48,14 @@ Most of my daily work happens across multiple private repositories in the Dollho
 - V2 refactor: hundreds of commits, major architectural evolution
 - Supporting tools: developer kits, community collections, internal utilities
 
-![Mick's GitHub Activity Graph](https://ghchart.rshah.org/mickdarling)
+![Mick's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mickdarling&theme=github-compact&area=true&hide_border=true)
 
 ## Featured Projects
 
 [![DollhouseMCP MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=DollhouseMCP&repo=mcp-server&theme=default)](https://github.com/DollhouseMCP/mcp-server)
-[![DollhouseMCP Collection](https://github-readme-stats.vercel.app/api/pin/?username=DollhouseMCP&repo=collection&theme=default)](https://github.com/DollhouseMCP/collection)
+[![Merview](https://github-readme-stats.vercel.app/api/pin/?username=mickdarling&repo=merview&theme=default)](https://github.com/mickdarling/merview)
+
+*More projects coming soon — several private repositories moving toward public release.*
 
 ## GitHub Stats
 
